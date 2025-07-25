@@ -1,2 +1,2 @@
 # Rotating-Machine-State-Classifier-Feature-Extraction-ML-Analysis
-Este repositório apresenta scripts em Python para processamento de dados brutos de máquinas rotativas. Realiza extração de features e implementa classificadores de ML para identificar estados operacionais: desbalanceamento, normal e desalinhado.
+This repository contains Python scripts for processing raw data from rotating machines. It extracts features and implements ML classifiers to identify operational states: unbalanced, normal, and misaligned.
